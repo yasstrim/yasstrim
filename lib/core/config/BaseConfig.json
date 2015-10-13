@@ -2,7 +2,7 @@
 
     "debug" :    true,
     "domain" :    "cound.ru",
-    "url_type" :    "ctr/act/args",
+    "url_type" :    "ctr/act/args", 
     "multilang" :    "false",
     "locale" :    "ru_Ru",
     "db" : {

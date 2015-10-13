@@ -1,0 +1,18 @@
+{
+
+    "debug" :    true,
+    "domain" :    "cound.ru",
+    "url_type" :    "ctr/act/args",
+    "multilang" :    "false",
+    "locale" :    "ru_Ru",
+    "db" : {
+        "db.conn" : "mysql:host=localhost;dbname=putevoditel",
+        "db.user" : "Roman",
+        "db.pass" : "oNEgHvCGwM"
+    },
+    "default" : {
+        "controller" :    "IndexController",
+        "action" : "indexAction"
+
+    }
+}
